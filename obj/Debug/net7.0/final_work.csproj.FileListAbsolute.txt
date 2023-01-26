@@ -1,0 +1,15 @@
+C:\GeekBrains\final_work\bin\Debug\net7.0\final_work.exe
+C:\GeekBrains\final_work\bin\Debug\net7.0\final_work.deps.json
+C:\GeekBrains\final_work\bin\Debug\net7.0\final_work.runtimeconfig.json
+C:\GeekBrains\final_work\bin\Debug\net7.0\final_work.dll
+C:\GeekBrains\final_work\bin\Debug\net7.0\final_work.pdb
+C:\GeekBrains\final_work\obj\Debug\net7.0\final_work.csproj.AssemblyReference.cache
+C:\GeekBrains\final_work\obj\Debug\net7.0\final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\final_work\obj\Debug\net7.0\final_work.AssemblyInfoInputs.cache
+C:\GeekBrains\final_work\obj\Debug\net7.0\final_work.AssemblyInfo.cs
+C:\GeekBrains\final_work\obj\Debug\net7.0\final_work.csproj.CoreCompileInputs.cache
+C:\GeekBrains\final_work\obj\Debug\net7.0\final_work.dll
+C:\GeekBrains\final_work\obj\Debug\net7.0\refint\final_work.dll
+C:\GeekBrains\final_work\obj\Debug\net7.0\final_work.pdb
+C:\GeekBrains\final_work\obj\Debug\net7.0\final_work.genruntimeconfig.cache
+C:\GeekBrains\final_work\obj\Debug\net7.0\ref\final_work.dll
